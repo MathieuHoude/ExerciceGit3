@@ -2,7 +2,7 @@
 ## Remote, Pull Request, Collaborator, Reviews
 
 Cet exercice est lié avec l'exercice JS #1.
-Une fois cet exercice complété, vous devez le push sur votre propre repository, sur une branche différente du master.
+Une fois cet exercice complété, vous devez faire push du projet corrigé sur votre propre repository, sur une branche différente du master.
 
 Vous devez ensuite m'ajouter comme collaborateur avec l'adresse suivante: mhoude@fungo.ca
 
